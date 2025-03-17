@@ -1,5 +1,4 @@
 ﻿# Full-stack-blog-application
-# Blog Application (MERN Stack)
 
 ## 📝 Overview
 This is a full-stack blog application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create, read, update, and delete blog posts with authentication and authorization features.
@@ -35,7 +34,7 @@ Make sure you have installed the following:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/blog-app-mern.git
+git clone [https://github.com/yourusername/blog-app-mern.git](https://github.com/swatiiyadawar/BlogApplication.git)
 cd blog-app-mern
 ```
 
