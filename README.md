@@ -34,7 +34,7 @@ Make sure you have installed the following:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/blog-app-mern.git](https://github.com/swatiiyadawar/BlogApplication.git)
+git clone https://github.com/swatiiyadawar/BlogApplication.git
 cd blog-app-mern
 ```
 
